@@ -1,0 +1,15 @@
+.hero__banner{
+    background: linear-gradient(rgba(0,0,0,0.45), rgba(0, 0, 0, 0.45)),
+    url("../assets/img/banner.jpeg") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero__banner h1 {
+    font-size: 2.5rem;
+    color: #fff;
+}

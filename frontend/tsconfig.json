@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext", "webworker"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": false,  // Allow TypeScript to emit output files
+    "outDir": "./build",  // Specify the output directory
+    "jsx": "react",
+    
+  },
+  "include": [
+    "src",
+    "public/service-worker.ts",  // Include the service worker
+    "declarations.d.ts"
+  ]
+}

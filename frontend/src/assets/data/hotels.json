@@ -1,0 +1,111 @@
+[
+  {
+    "title": "St Giles London, UK",
+    "city": "London",
+    "address": "Bedford Avenue, Camden",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg1.png",
+    "featured": true
+  },
+  {
+    "title": "Clarion Hotel, Sweden",
+    "city": "Stockholm",
+    "address": "Ringvägen 98",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg2.png",
+    "featured": true
+  },
+  {
+    "title": "Hotel Anya, France",
+    "city": "Paris",
+    "address": "11:e arr. - Bastille - République",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg3.png",
+    "featured": true
+  },
+  {
+    "title": "Hotel Traiano, Italy",
+    "city": "Rome",
+    "address": "Via Quattro Novembre 154, Rione Monti,",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg4.png",
+    "featured": true
+  },
+  {
+    "title": "Lumbung Seraya Villa, Indonesia",
+    "city": "Bali",
+    "address": "Jalan Subak lebah, gang lumbung seraya banjar pesiatin, seraya barat",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg5.png",
+    "featured": true
+  },
+  {
+    "title": "Tokyo Asakusa Kuramae No.2, Japan",
+    "city": "Tokyo",
+    "address": "85 Saint Georges Mall,",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg6.png",
+    "featured": true
+  },
+  {
+    "title": "Old Bank Hotel - Lion Roars Hotels & Lodges, South Africa",
+    "city": "Cape Town",
+    "address": "Somewhere in France",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg7.png",
+    "featured": true
+  },
+  {
+    "title": "Cadillac Hotel Boutique, Mexico",
+    "city": "Mexico City",
+    "address": "José María Izazaga 35",
+    "price": 99,
+    "maxRoom": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg8.png",
+    "featured": true
+  },
+  {
+    "title": "Oasis Hotel Waikiki, Hawaii",
+    "city": "Honolulu",
+    "address": "320 Lewers Street",
+    "price": 99,
+    "maxRoom": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/hotel-imgs/hotelImg9.png",
+    "featured": false
+  }
+  
+]

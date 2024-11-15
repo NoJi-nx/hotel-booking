@@ -1,0 +1,158 @@
+.hotel__photo img {
+    width: 92%;
+    border-radius: 0.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.hotel__details, 
+.hotel__reviews {
+    border-radius: 0.5rem;
+    border: 1px solid;
+    padding: 2rem;
+    background: rgba(5, 31, 66, 0.971);
+}
+
+.hotel__details h2{
+    font-size: 1.5rem;
+}
+
+.hotel__details span{
+    display: flex;
+    align-items: center;
+    column-gap: 0.5rem;
+    font-style: 1rem;
+    color: var(--text-color);
+}
+
+.hotel__details span i {
+    color: var(--heading-color);
+    font-size: 1.1rem;
+}
+
+.hotel__details h5 {
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.hotel__details p{
+    line-height: 30px;
+    font-size: 1rem;
+    color: var(--text-color)
+}
+
+.hotel__extra-details{
+    display: flex;
+    align-items: center;
+    column-gap: 2.7rem;
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+}
+
+.rating__group span{
+    cursor: pointer;
+  font-size: 2rem;
+  transition: color 0.3s ease;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    color: var(--secondary-color);
+    cursor: pointer;
+}
+
+
+
+.rating__group span.selected {
+    color: var(--text-color); 
+  }
+  
+  .rating__group span:hover,
+  .rating__group span.selected:hover {
+    color: var(--text-color); 
+  }
+
+.hotel__reviews h4 {
+    margin-bottom: 3rem;
+}
+
+.review__input {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.7rem;
+    border-radius: 2rem;
+    border: 1px solid var(--secondary-color);
+}
+
+.review__input input{
+    width: 100%;
+    padding: 0.5rem 0;
+    border: none;
+    background: none;
+    color: #fff;
+}
+
+.review__input input:focus{
+    outline: none;
+}
+
+.review__item {
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.review__item img{
+    width: 3.5rem;
+    height: 3.5rem;;
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.user__reviews {
+    margin-top: 2.5rem;
+}
+.review__item h5{
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+.review__item p {
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+.review__item span i{
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+}
+
+.review__item span{
+    font-weight: 500;
+}
+
+.review__item h6{
+    font-size: 1.1rem;
+    color: var(--text-color)
+}
+
+.review_number .number{
+    color: #fff;
+}
+
+@media only screen and (max-width: 768px) { 
+    .hotel__extra-details{
+        flex-wrap: wrap;
+        row-gap: 1rem;
+    }
+  
+    .hotel__extra-details span{
+        font-size: 0.9rem;
+    }
+
+    .hotel__extra-details span i{
+        font-size: 1rem;
+    }
+  }
+  
