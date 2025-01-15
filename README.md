@@ -1,4 +1,4 @@
-
+Live: https://trestates.netlify.app/
 The project is deployed on Heroku. You can view it here: [Heroku-Trestate](https://heroku-trestate-6c123361019f.herokuapp.com/)
 
 ## How to Run the PWA Locally
